@@ -349,3 +349,8 @@ header {
 }
 
 /*the perfect blend*/
+
+.perfect-blend {
+  background: url("media/perfect-blend.jpg") center no-repeat;
+  background-size: cover;
+}
